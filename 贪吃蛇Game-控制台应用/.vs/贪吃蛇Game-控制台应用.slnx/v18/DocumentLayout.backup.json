@@ -1,0 +1,265 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\C#\u63A7\u5236\u53F0\u5E94\u7528\\\u8D2A\u5403\u86C7Game-\u63A7\u5236\u53F0\u5E94\u7528\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B4648EDE-4C49-2ECB-383C-ED78CE90CF2F}|\u8D2A\u5403\u86C7Game-\u63A7\u5236\u53F0\u5E94\u7528.csproj|e:\\c#\u63A7\u5236\u53F0\u5E94\u7528\\\u8D2A\u5403\u86C7game-\u63A7\u5236\u53F0\u5E94\u7528\\gamescene.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4648EDE-4C49-2ECB-383C-ED78CE90CF2F}|\u8D2A\u5403\u86C7Game-\u63A7\u5236\u53F0\u5E94\u7528.csproj|solutionrelative:gamescene.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4648EDE-4C49-2ECB-383C-ED78CE90CF2F}|\u8D2A\u5403\u86C7Game-\u63A7\u5236\u53F0\u5E94\u7528.csproj|e:\\c#\u63A7\u5236\u53F0\u5E94\u7528\\\u8D2A\u5403\u86C7game-\u63A7\u5236\u53F0\u5E94\u7528\\food.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4648EDE-4C49-2ECB-383C-ED78CE90CF2F}|\u8D2A\u5403\u86C7Game-\u63A7\u5236\u53F0\u5E94\u7528.csproj|solutionrelative:food.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4648EDE-4C49-2ECB-383C-ED78CE90CF2F}|\u8D2A\u5403\u86C7Game-\u63A7\u5236\u53F0\u5E94\u7528.csproj|e:\\c#\u63A7\u5236\u53F0\u5E94\u7528\\\u8D2A\u5403\u86C7game-\u63A7\u5236\u53F0\u5E94\u7528\\gameobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4648EDE-4C49-2ECB-383C-ED78CE90CF2F}|\u8D2A\u5403\u86C7Game-\u63A7\u5236\u53F0\u5E94\u7528.csproj|solutionrelative:gameobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4648EDE-4C49-2ECB-383C-ED78CE90CF2F}|\u8D2A\u5403\u86C7Game-\u63A7\u5236\u53F0\u5E94\u7528.csproj|e:\\c#\u63A7\u5236\u53F0\u5E94\u7528\\\u8D2A\u5403\u86C7game-\u63A7\u5236\u53F0\u5E94\u7528\\idraw.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4648EDE-4C49-2ECB-383C-ED78CE90CF2F}|\u8D2A\u5403\u86C7Game-\u63A7\u5236\u53F0\u5E94\u7528.csproj|solutionrelative:idraw.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4648EDE-4C49-2ECB-383C-ED78CE90CF2F}|\u8D2A\u5403\u86C7Game-\u63A7\u5236\u53F0\u5E94\u7528.csproj|e:\\c#\u63A7\u5236\u53F0\u5E94\u7528\\\u8D2A\u5403\u86C7game-\u63A7\u5236\u53F0\u5E94\u7528\\snakebody.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4648EDE-4C49-2ECB-383C-ED78CE90CF2F}|\u8D2A\u5403\u86C7Game-\u63A7\u5236\u53F0\u5E94\u7528.csproj|solutionrelative:snakebody.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4648EDE-4C49-2ECB-383C-ED78CE90CF2F}|\u8D2A\u5403\u86C7Game-\u63A7\u5236\u53F0\u5E94\u7528.csproj|e:\\c#\u63A7\u5236\u53F0\u5E94\u7528\\\u8D2A\u5403\u86C7game-\u63A7\u5236\u53F0\u5E94\u7528\\map.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4648EDE-4C49-2ECB-383C-ED78CE90CF2F}|\u8D2A\u5403\u86C7Game-\u63A7\u5236\u53F0\u5E94\u7528.csproj|solutionrelative:map.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4648EDE-4C49-2ECB-383C-ED78CE90CF2F}|\u8D2A\u5403\u86C7Game-\u63A7\u5236\u53F0\u5E94\u7528.csproj|e:\\c#\u63A7\u5236\u53F0\u5E94\u7528\\\u8D2A\u5403\u86C7game-\u63A7\u5236\u53F0\u5E94\u7528\\endscene.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4648EDE-4C49-2ECB-383C-ED78CE90CF2F}|\u8D2A\u5403\u86C7Game-\u63A7\u5236\u53F0\u5E94\u7528.csproj|solutionrelative:endscene.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4648EDE-4C49-2ECB-383C-ED78CE90CF2F}|\u8D2A\u5403\u86C7Game-\u63A7\u5236\u53F0\u5E94\u7528.csproj|e:\\c#\u63A7\u5236\u53F0\u5E94\u7528\\\u8D2A\u5403\u86C7game-\u63A7\u5236\u53F0\u5E94\u7528\\snake.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4648EDE-4C49-2ECB-383C-ED78CE90CF2F}|\u8D2A\u5403\u86C7Game-\u63A7\u5236\u53F0\u5E94\u7528.csproj|solutionrelative:snake.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4648EDE-4C49-2ECB-383C-ED78CE90CF2F}|\u8D2A\u5403\u86C7Game-\u63A7\u5236\u53F0\u5E94\u7528.csproj|e:\\c#\u63A7\u5236\u53F0\u5E94\u7528\\\u8D2A\u5403\u86C7game-\u63A7\u5236\u53F0\u5E94\u7528\\position.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4648EDE-4C49-2ECB-383C-ED78CE90CF2F}|\u8D2A\u5403\u86C7Game-\u63A7\u5236\u53F0\u5E94\u7528.csproj|solutionrelative:position.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4648EDE-4C49-2ECB-383C-ED78CE90CF2F}|\u8D2A\u5403\u86C7Game-\u63A7\u5236\u53F0\u5E94\u7528.csproj|e:\\c#\u63A7\u5236\u53F0\u5E94\u7528\\\u8D2A\u5403\u86C7game-\u63A7\u5236\u53F0\u5E94\u7528\\wall.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4648EDE-4C49-2ECB-383C-ED78CE90CF2F}|\u8D2A\u5403\u86C7Game-\u63A7\u5236\u53F0\u5E94\u7528.csproj|solutionrelative:wall.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4648EDE-4C49-2ECB-383C-ED78CE90CF2F}|\u8D2A\u5403\u86C7Game-\u63A7\u5236\u53F0\u5E94\u7528.csproj|e:\\c#\u63A7\u5236\u53F0\u5E94\u7528\\\u8D2A\u5403\u86C7game-\u63A7\u5236\u53F0\u5E94\u7528\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4648EDE-4C49-2ECB-383C-ED78CE90CF2F}|\u8D2A\u5403\u86C7Game-\u63A7\u5236\u53F0\u5E94\u7528.csproj|solutionrelative:game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4648EDE-4C49-2ECB-383C-ED78CE90CF2F}|\u8D2A\u5403\u86C7Game-\u63A7\u5236\u53F0\u5E94\u7528.csproj|e:\\c#\u63A7\u5236\u53F0\u5E94\u7528\\\u8D2A\u5403\u86C7game-\u63A7\u5236\u53F0\u5E94\u7528\\beginscene.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4648EDE-4C49-2ECB-383C-ED78CE90CF2F}|\u8D2A\u5403\u86C7Game-\u63A7\u5236\u53F0\u5E94\u7528.csproj|solutionrelative:beginscene.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4648EDE-4C49-2ECB-383C-ED78CE90CF2F}|\u8D2A\u5403\u86C7Game-\u63A7\u5236\u53F0\u5E94\u7528.csproj|e:\\c#\u63A7\u5236\u53F0\u5E94\u7528\\\u8D2A\u5403\u86C7game-\u63A7\u5236\u53F0\u5E94\u7528\\beginorendscene.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4648EDE-4C49-2ECB-383C-ED78CE90CF2F}|\u8D2A\u5403\u86C7Game-\u63A7\u5236\u53F0\u5E94\u7528.csproj|solutionrelative:beginorendscene.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4648EDE-4C49-2ECB-383C-ED78CE90CF2F}|\u8D2A\u5403\u86C7Game-\u63A7\u5236\u53F0\u5E94\u7528.csproj|e:\\c#\u63A7\u5236\u53F0\u5E94\u7528\\\u8D2A\u5403\u86C7game-\u63A7\u5236\u53F0\u5E94\u7528\\isceneupdate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4648EDE-4C49-2ECB-383C-ED78CE90CF2F}|\u8D2A\u5403\u86C7Game-\u63A7\u5236\u53F0\u5E94\u7528.csproj|solutionrelative:isceneupdate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4648EDE-4C49-2ECB-383C-ED78CE90CF2F}|\u8D2A\u5403\u86C7Game-\u63A7\u5236\u53F0\u5E94\u7528.csproj|e:\\c#\u63A7\u5236\u53F0\u5E94\u7528\\\u8D2A\u5403\u86C7game-\u63A7\u5236\u53F0\u5E94\u7528\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4648EDE-4C49-2ECB-383C-ED78CE90CF2F}|\u8D2A\u5403\u86C7Game-\u63A7\u5236\u53F0\u5E94\u7528.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GameScene.cs",
+              "DocumentMoniker": "E:\\C#\u63A7\u5236\u53F0\u5E94\u7528\\\u8D2A\u5403\u86C7Game-\u63A7\u5236\u53F0\u5E94\u7528\\GameScene.cs",
+              "RelativeDocumentMoniker": "GameScene.cs",
+              "ToolTip": "E:\\C#\u63A7\u5236\u53F0\u5E94\u7528\\\u8D2A\u5403\u86C7Game-\u63A7\u5236\u53F0\u5E94\u7528\\GameScene.cs",
+              "RelativeToolTip": "GameScene.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAIwCgAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-09T07:28:12.497Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Food.cs",
+              "DocumentMoniker": "E:\\C#\u63A7\u5236\u53F0\u5E94\u7528\\\u8D2A\u5403\u86C7Game-\u63A7\u5236\u53F0\u5E94\u7528\\Food.cs",
+              "RelativeDocumentMoniker": "Food.cs",
+              "ToolTip": "E:\\C#\u63A7\u5236\u53F0\u5E94\u7528\\\u8D2A\u5403\u86C7Game-\u63A7\u5236\u53F0\u5E94\u7528\\Food.cs",
+              "RelativeToolTip": "Food.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAB0AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-09T08:11:48.97Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GameObject.cs",
+              "DocumentMoniker": "E:\\C#\u63A7\u5236\u53F0\u5E94\u7528\\\u8D2A\u5403\u86C7Game-\u63A7\u5236\u53F0\u5E94\u7528\\GameObject.cs",
+              "RelativeDocumentMoniker": "GameObject.cs",
+              "ToolTip": "E:\\C#\u63A7\u5236\u53F0\u5E94\u7528\\\u8D2A\u5403\u86C7Game-\u63A7\u5236\u53F0\u5E94\u7528\\GameObject.cs",
+              "RelativeToolTip": "GameObject.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-09T07:58:31.761Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IDraw.cs",
+              "DocumentMoniker": "E:\\C#\u63A7\u5236\u53F0\u5E94\u7528\\\u8D2A\u5403\u86C7Game-\u63A7\u5236\u53F0\u5E94\u7528\\IDraw.cs",
+              "RelativeDocumentMoniker": "IDraw.cs",
+              "ToolTip": "E:\\C#\u63A7\u5236\u53F0\u5E94\u7528\\\u8D2A\u5403\u86C7Game-\u63A7\u5236\u53F0\u5E94\u7528\\IDraw.cs",
+              "RelativeToolTip": "IDraw.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-09T07:57:51.361Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SnakeBody.cs",
+              "DocumentMoniker": "E:\\C#\u63A7\u5236\u53F0\u5E94\u7528\\\u8D2A\u5403\u86C7Game-\u63A7\u5236\u53F0\u5E94\u7528\\SnakeBody.cs",
+              "RelativeDocumentMoniker": "SnakeBody.cs",
+              "ToolTip": "E:\\C#\u63A7\u5236\u53F0\u5E94\u7528\\\u8D2A\u5403\u86C7Game-\u63A7\u5236\u53F0\u5E94\u7528\\SnakeBody.cs",
+              "RelativeToolTip": "SnakeBody.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAAwBcAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-09T08:14:44.016Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Map.cs",
+              "DocumentMoniker": "E:\\C#\u63A7\u5236\u53F0\u5E94\u7528\\\u8D2A\u5403\u86C7Game-\u63A7\u5236\u53F0\u5E94\u7528\\Map.cs",
+              "RelativeDocumentMoniker": "Map.cs",
+              "ToolTip": "E:\\C#\u63A7\u5236\u53F0\u5E94\u7528\\\u8D2A\u5403\u86C7Game-\u63A7\u5236\u53F0\u5E94\u7528\\Map.cs",
+              "RelativeToolTip": "Map.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABQAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-09T08:21:38.893Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "EndScene.cs",
+              "DocumentMoniker": "E:\\C#\u63A7\u5236\u53F0\u5E94\u7528\\\u8D2A\u5403\u86C7Game-\u63A7\u5236\u53F0\u5E94\u7528\\EndScene.cs",
+              "RelativeDocumentMoniker": "EndScene.cs",
+              "ToolTip": "E:\\C#\u63A7\u5236\u53F0\u5E94\u7528\\\u8D2A\u5403\u86C7Game-\u63A7\u5236\u53F0\u5E94\u7528\\EndScene.cs",
+              "RelativeToolTip": "EndScene.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-09T07:29:08.262Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Snake.cs",
+              "DocumentMoniker": "E:\\C#\u63A7\u5236\u53F0\u5E94\u7528\\\u8D2A\u5403\u86C7Game-\u63A7\u5236\u53F0\u5E94\u7528\\Snake.cs",
+              "RelativeDocumentMoniker": "Snake.cs",
+              "ToolTip": "E:\\C#\u63A7\u5236\u53F0\u5E94\u7528\\\u8D2A\u5403\u86C7Game-\u63A7\u5236\u53F0\u5E94\u7528\\Snake.cs",
+              "RelativeToolTip": "Snake.cs",
+              "ViewState": "AgIAAEsAAAAAAAAAAAAYwF4AAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-09T08:37:52.661Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Position.cs",
+              "DocumentMoniker": "E:\\C#\u63A7\u5236\u53F0\u5E94\u7528\\\u8D2A\u5403\u86C7Game-\u63A7\u5236\u53F0\u5E94\u7528\\Position.cs",
+              "RelativeDocumentMoniker": "Position.cs",
+              "ToolTip": "E:\\C#\u63A7\u5236\u53F0\u5E94\u7528\\\u8D2A\u5403\u86C7Game-\u63A7\u5236\u53F0\u5E94\u7528\\Position.cs",
+              "RelativeToolTip": "Position.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAADwvxYAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-09T07:59:39.145Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Wall.cs",
+              "DocumentMoniker": "E:\\C#\u63A7\u5236\u53F0\u5E94\u7528\\\u8D2A\u5403\u86C7Game-\u63A7\u5236\u53F0\u5E94\u7528\\Wall.cs",
+              "RelativeDocumentMoniker": "Wall.cs",
+              "ToolTip": "E:\\C#\u63A7\u5236\u53F0\u5E94\u7528\\\u8D2A\u5403\u86C7Game-\u63A7\u5236\u53F0\u5E94\u7528\\Wall.cs",
+              "RelativeToolTip": "Wall.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-09T08:07:08.081Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Game.cs",
+              "DocumentMoniker": "E:\\C#\u63A7\u5236\u53F0\u5E94\u7528\\\u8D2A\u5403\u86C7Game-\u63A7\u5236\u53F0\u5E94\u7528\\Game.cs",
+              "RelativeDocumentMoniker": "Game.cs",
+              "ToolTip": "E:\\C#\u63A7\u5236\u53F0\u5E94\u7528\\\u8D2A\u5403\u86C7Game-\u63A7\u5236\u53F0\u5E94\u7528\\Game.cs",
+              "RelativeToolTip": "Game.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAzwCIAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-09T07:16:30.339Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "BeginScene.cs",
+              "DocumentMoniker": "E:\\C#\u63A7\u5236\u53F0\u5E94\u7528\\\u8D2A\u5403\u86C7Game-\u63A7\u5236\u53F0\u5E94\u7528\\BeginScene.cs",
+              "RelativeDocumentMoniker": "BeginScene.cs",
+              "ToolTip": "E:\\C#\u63A7\u5236\u53F0\u5E94\u7528\\\u8D2A\u5403\u86C7Game-\u63A7\u5236\u53F0\u5E94\u7528\\BeginScene.cs",
+              "RelativeToolTip": "BeginScene.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-09T07:28:46.843Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "BeginOrEndScene.cs",
+              "DocumentMoniker": "E:\\C#\u63A7\u5236\u53F0\u5E94\u7528\\\u8D2A\u5403\u86C7Game-\u63A7\u5236\u53F0\u5E94\u7528\\BeginOrEndScene.cs",
+              "RelativeDocumentMoniker": "BeginOrEndScene.cs",
+              "ToolTip": "E:\\C#\u63A7\u5236\u53F0\u5E94\u7528\\\u8D2A\u5403\u86C7Game-\u63A7\u5236\u53F0\u5E94\u7528\\BeginOrEndScene.cs",
+              "RelativeToolTip": "BeginOrEndScene.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAADwvxEAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-09T07:27:32.059Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ISceneUpdate.cs",
+              "DocumentMoniker": "E:\\C#\u63A7\u5236\u53F0\u5E94\u7528\\\u8D2A\u5403\u86C7Game-\u63A7\u5236\u53F0\u5E94\u7528\\ISceneUpdate.cs",
+              "RelativeDocumentMoniker": "ISceneUpdate.cs",
+              "ToolTip": "E:\\C#\u63A7\u5236\u53F0\u5E94\u7528\\\u8D2A\u5403\u86C7Game-\u63A7\u5236\u53F0\u5E94\u7528\\ISceneUpdate.cs",
+              "RelativeToolTip": "ISceneUpdate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-09T07:21:05.027Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\C#\u63A7\u5236\u53F0\u5E94\u7528\\\u8D2A\u5403\u86C7Game-\u63A7\u5236\u53F0\u5E94\u7528\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "E:\\C#\u63A7\u5236\u53F0\u5E94\u7528\\\u8D2A\u5403\u86C7Game-\u63A7\u5236\u53F0\u5E94\u7528\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-09T01:19:06.876Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
